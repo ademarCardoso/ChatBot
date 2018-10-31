@@ -1,4 +1,4 @@
 # ChatBot
-Bot criado em Python para responder mensagens simples no terminal.
+Bot created in Python to answer simple messages in the terminal.
 
-O chatbot criará um banco de dados sqlLite para capturar e aprender as perguntas e respostas.
+Chatbot will create an sqlLite database to capture and learn the questions and answers.
