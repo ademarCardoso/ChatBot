@@ -1,4 +1,7 @@
 # ChatBot
-Bot created in Python to answer simple messages in the terminal.
+Simples chatbot  criado em Python com a biblioteca [chatterbot](https://chatterbot.readthedocs.io/en/stable/), o bot responde somente mensagens simples, mais fique uns 3 minutos conversando, vai se surpreender.  
+Para executar o bot, basta clonar este repositório e no terminal ( Linux ) utilizar o comando:
+```
+python chat.py
+```
 
-Chatbot will create an sqlLite database to capture and learn the questions and answers.
